@@ -10,5 +10,5 @@ ShannonWiener <- function(filePath) {
   return(H)
 }
 
-ShannonWiener("twforest.csv")
+ShannonWiener()
 ```
