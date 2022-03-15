@@ -1,0 +1,10 @@
+```{r}
+### 生態資訊學範例: function
+
+helloWorld <- function(username= "小熊維尼"){
+   # sprintf('Hello! %s', username)
+    print(paste("Hello! ", username, sep = ))
+  }
+#'Hello! %s' %s為變數
+helloWorld('小熊')
+```
